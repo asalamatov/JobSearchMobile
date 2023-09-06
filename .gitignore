@@ -10,7 +10,7 @@ npm-debug.*
 *.orig.*
 web-build/
 .env
-useFetch.js
+hook/useFetch.js
 
 # macOS
 .DS_Store
