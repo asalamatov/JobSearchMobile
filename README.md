@@ -27,7 +27,8 @@ Before you begin, ensure you have met the following requirements:
 - npm (Node Package Manager) or yarn
 - Expo CLI installed globally (`npm install -g expo-cli` or `yarn global add expo-cli`)
 - A code editor of your choice (e.g., Visual Studio Code)
-- get your rapid API key and insert into /hook/useFetch1.js and /app/search/[id]1.js
+- get your rapid API key from [RapidAPI JSearch](https://rapidapi.com/letscrape-6bRBa3QguO5/api/jsearch?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel)
+- insert the API key into /hook/useFetch1.js and /app/search/[id]1.js
 - then rename /hook/useFetch1.js into /hook/useFetch.js and /app/search/[id]1.js into /app/search/[id].js
 
 ## Installation
