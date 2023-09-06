@@ -27,6 +27,8 @@ Before you begin, ensure you have met the following requirements:
 - npm (Node Package Manager) or yarn
 - Expo CLI installed globally (`npm install -g expo-cli` or `yarn global add expo-cli`)
 - A code editor of your choice (e.g., Visual Studio Code)
+- get your rapid API key and insert into /hook/useFetch1.js
+- then rename /hook/useFetch1.js into /hook/useFetch.js
 
 ## Installation
 

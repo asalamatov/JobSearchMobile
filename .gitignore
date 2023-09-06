@@ -11,6 +11,7 @@ npm-debug.*
 web-build/
 .env
 hook/useFetch.js
+app/search/[id].js
 
 # macOS
 .DS_Store
