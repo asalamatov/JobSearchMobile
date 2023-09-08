@@ -12,7 +12,7 @@ const Popularjobs = () => {
   const {data, isLoading, error } = useFetch(
     'search', 
     {
-      query: "Software Engineer Intern",
+      query: "Software Engineer, Intern - Summer 2024",
       num_pages: 1
     }
   );
